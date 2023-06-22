@@ -23,8 +23,8 @@ Well This Contains my QR Code design practice on frontend Mentor
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/walidshaba/qr-code-component-main.git)
+- Live Site URL: [live site URL](https://qr-code-component-main-git-master-walidshaba.vercel.app/)
 
 ## My process
 
